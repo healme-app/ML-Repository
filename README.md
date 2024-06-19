@@ -18,6 +18,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-For any questions or issues, please open an issue on GitHub or contact the repository maintainer at your.email@example.com.
+For any questions or issues, please open an issue on GitHub.
 
 Thank you for using HealMe! We hope this application helps in making accurate and timely skin disease detections.
