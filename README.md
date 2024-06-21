@@ -14,6 +14,12 @@ ML-Repository
 - **model.json**: This file contains the architecture of the machine learning model used in HealMe. It describes the layers and configurations of the model in JSON format.
 - **model_weights.bin**: This binary file contains the weights of the trained machine learning model. These weights are essential for making predictions using the model.
 
+HEALME MODEL
+https://drive.google.com/drive/folders/13Gzl0tcM2DqsMLk0829K8yPamhqigc7m?usp=sharing
+
+HEALME DATASET
+https://drive.google.com/file/d/12DPy6tzbHWx7Jzu6W4zuSoZeBAp9cfFX/view?usp=sharing
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
