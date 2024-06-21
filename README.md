@@ -18,7 +18,9 @@ HEALME MODEL
 https://drive.google.com/drive/folders/13Gzl0tcM2DqsMLk0829K8yPamhqigc7m?usp=sharing
 
 HEALME DATASET
+https://www.kaggle.com/datasets/shubhamgoel27/dermnet
 https://drive.google.com/file/d/12DPy6tzbHWx7Jzu6W4zuSoZeBAp9cfFX/view?usp=sharing
+
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
